@@ -45,7 +45,7 @@ A secure REST API built with Spring Boot for managing products, categories, inve
    mvn spring-boot:run
 
 ## API Documentation
-Available at http://localhost:8080/swagger-ui/index.html after running the app.
+Available at http://localhost:9000/swagger-ui/index.html after running the app.
 
 ## Default Admin Account
 Email: admin@example.com
