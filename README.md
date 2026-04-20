@@ -45,9 +45,11 @@ A secure REST API built with Spring Boot for managing products, categories, inve
    mvn spring-boot:run
 
 ## API Documentation
-   [View API Docs](https://yijuchoo.github.io/guvi-inventory-order-mgt/)
-   Available at http://localhost:9000/swagger-ui/index.html after running the app.
+https://yijuchoo.github.io/guvi-inventory-order-mgt/
+
+Available at http://localhost:9000/swagger-ui/index.html after running the app.
 
 ## Default Admin Account
-   Email: admin@example.com
-   Password: admin123
+Email: admin@example.com
+
+Password: admin123
